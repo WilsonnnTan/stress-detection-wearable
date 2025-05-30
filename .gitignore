@@ -1,0 +1,47 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Anaconda environment and project files
+.conda/
+conda-meta/
+anaconda-project/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore your data folders (raw data and preprocessing outputs)
+dataset/raw/wesad/
+dataset/processed/wesad
+
+# Ignore anaconda project and virtual documents folders
+anaconda_projects/
+.virtual_documents/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and miscellaneous files
+*.log
+
+# Python packaging
+*.egg-info/
+*.egg
+
+# Optional model files (add if you have)
+*.pt
+*.ckpt
+*.hdf5
+*.joblib
+
