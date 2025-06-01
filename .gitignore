@@ -22,7 +22,6 @@ anaconda-project/
 
 # Ignore your data folders (raw data and preprocessing outputs)
 dataset/raw/wesad/
-dataset/processed/wesad
 
 # Ignore anaconda project and virtual documents folders
 anaconda_projects/
@@ -44,4 +43,6 @@ Thumbs.db
 *.ckpt
 *.hdf5
 *.joblib
+*.h5
+*.pkl
 
