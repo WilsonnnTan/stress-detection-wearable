@@ -77,14 +77,7 @@ You can also obtain the EmoWear dataset independently. Ensure your dataset inclu
 The entire analysis pipeline is contained within a single Jupyter Notebook.
 
 1.  **Open the Main Notebook:** Open `model.ipynb` (or the name of your main analysis notebook) in Jupyter Lab or Jupyter Notebook.
-2.  **Run Cells Sequentially:** Execute all cells in the notebook sequentially from top to bottom. The notebook is structured into logical sections:
-    * **1. Setup Awal dan Konfigurasi:** Imports libraries and defines data paths.
-    * **2. Fungsi Pemuatan Data dan Ekstraksi Fitur:** Defines helper functions.
-    * **3. Pengumpulan Data dan Ekstraksi Fitur Utama:** Loads raw data, extracts features, and collects labels.
-    * **4. Persiapan Data untuk Pemodelan:** Handles missing values and scales features.
-    * **5. Pelatihan Model dan Evaluasi (Valensi - Klasifikasi):** Trains and evaluates the Valence classification model.
-    * **6. Pelatihan Model dan Evaluasi (Gairah - Regresi):** Trains and evaluates the Arousal regression model.
-    * **7. Kesimpulan dan Langkah Selanjutnya:** Provides summary and future work recommendations.
+2.  **Run Cells Sequentially:** Execute all cells in the notebook sequentially from top to bottom. 
 
 ---
 
